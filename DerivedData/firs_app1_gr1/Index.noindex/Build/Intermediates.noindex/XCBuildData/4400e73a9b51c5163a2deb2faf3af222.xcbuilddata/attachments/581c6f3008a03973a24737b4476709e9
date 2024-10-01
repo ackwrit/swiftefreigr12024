@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-maccatalyst/firs_app1_gr1UITests.build/Objects-normal/arm64/firs_app1_gr1UITests-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-maccatalyst/firs_app1_gr1UITests.build/Objects-normal/arm64/firs_app1_gr1UITests-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-maccatalyst/firs_app1_gr1UITests.build/Objects-normal/arm64/firs_app1_gr1UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-maccatalyst/firs_app1_gr1UITests.build/Objects-normal/arm64/firs_app1_gr1UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-maccatalyst/firs_app1_gr1UITests.build/Objects-normal/arm64/firs_app1_gr1UITests-master.swiftdeps"
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1UITests/firs_app1_gr1UITests.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1UITests/firs_app1_gr1UITestsLaunchTests.swift" : {
+
+  }
+}

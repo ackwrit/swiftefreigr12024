@@ -1,0 +1,48 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.swiftdeps"
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/CustomModel.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/DeviceLogger.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/DownloaderUserDefaults.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/FileDownloader.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/LocalModelInfo.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloadConditions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloadTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloader.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelFileManager.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelInfoRetriever.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/RemoteModelInfo.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/TelemetryLogger.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/proto/firebase_ml_log_sdk.pb.swift" : {
+
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/FirebaseStorage-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/FirebaseStorage-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/FirebaseStorage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/FirebaseStorage-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/FirebaseStorage-master.swiftdeps"
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/AsyncAwait.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageFetcherService.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageInternalTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageListTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StoragePath.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageTaskState.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Internal/StorageUtils.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Result.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/Storage.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageConstants.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageDownloadTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageError.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageListResult.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageMetadata.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageObservableTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageReference.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageTask.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageTaskSnapshot.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageUploadTask.swift" : {
+
+  }
+}

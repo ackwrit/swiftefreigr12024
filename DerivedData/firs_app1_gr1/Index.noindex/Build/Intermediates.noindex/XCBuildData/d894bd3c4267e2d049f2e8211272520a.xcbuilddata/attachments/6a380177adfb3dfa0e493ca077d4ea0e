@@ -1,0 +1,39 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/Objects-normal/arm64/firs_app1_gr1-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/Objects-normal/arm64/firs_app1_gr1-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/Objects-normal/arm64/firs_app1_gr1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/Objects-normal/arm64/firs_app1_gr1-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/Objects-normal/arm64/firs_app1_gr1-master.swiftdeps"
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/firs_app1_gr1.build/Debug-iphoneos/firs_app1_gr1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/Model/Person.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/View/AllPersonnView.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/View/ContentView.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/View/DashboardView.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/View/loginView.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/ViewModel/AuthViewModel.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/ViewModel/PersonViewModel.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/firs_app1_gr1App.swift" : {
+
+  },
+  "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/firs_app1_gr1/services/FirebaseManager.swift" : {
+
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseVertexAI.build/Objects-normal/arm64/FirebaseVertexAI-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseVertexAI.build/Objects-normal/arm64/FirebaseVertexAI-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseVertexAI.build/Objects-normal/arm64/FirebaseVertexAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseVertexAI.build/Objects-normal/arm64/FirebaseVertexAI-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseVertexAI.build/Objects-normal/arm64/FirebaseVertexAI-master.swiftdeps"
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Chat.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Constants.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/CountTokensRequest.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Errors.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/FunctionCalling.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerateContentError.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerateContentRequest.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerateContentResponse.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerationConfig.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerativeAIRequest.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerativeAIService.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/GenerativeModel.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/JSONValue.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Logging.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/ModelContent.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/PartsRepresentable+Image.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/PartsRepresentable.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Safety.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/Schema.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseVertexAI/Sources/VertexAI.swift" : {
+
+  }
+}

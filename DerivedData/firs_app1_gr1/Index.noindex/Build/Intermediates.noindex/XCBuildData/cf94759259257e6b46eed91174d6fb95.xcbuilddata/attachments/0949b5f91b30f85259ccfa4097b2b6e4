@@ -1,0 +1,4 @@
+module GoogleAppMeasurementWithoutAdIdSupportTarget {
+umbrella "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/GoogleAppMeasurement/GoogleAppMeasurementWithoutAdIdSupportWrapper/include"
+export *
+}

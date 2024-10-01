@@ -1,0 +1,4 @@
+module FirebaseABTesting {
+umbrella header "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseABTesting/Sources/Public/FirebaseABTesting/FirebaseABTesting.h"
+export *
+}

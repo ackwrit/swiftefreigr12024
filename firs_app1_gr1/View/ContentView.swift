@@ -8,8 +8,22 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var uid : String = ""
+    @StateObject var authVm : AuthViewModel = AuthViewModel()
     var body: some View {
-        loginView()
+        if(authVm.isFinishConnecting){
+            //la connexion est passée
+            if(authVm.isAuth){
+                DashboardView()
+            }
+            else{
+                loginView()
+            }
+            
+        }
+        else{
+            Text("En cours de connexion ...")
+        }
     }
 }
 

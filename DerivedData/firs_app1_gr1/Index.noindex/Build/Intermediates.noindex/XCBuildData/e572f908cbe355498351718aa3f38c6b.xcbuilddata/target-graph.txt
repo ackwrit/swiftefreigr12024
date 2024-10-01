@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'firs_app1_gr1' in project 'firs_app1_gr1' (no dependencies)
+Target 'firs_app1_gr1' in project 'firs_app1_gr1' (no dependencies)

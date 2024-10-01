@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug-iphonesimulator/PromisesTestHelpers.build/Objects-normal/arm64/PromisesTestHelpers-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug-iphonesimulator/PromisesTestHelpers.build/Objects-normal/arm64/PromisesTestHelpers-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug-iphonesimulator/PromisesTestHelpers.build/Objects-normal/arm64/PromisesTestHelpers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug-iphonesimulator/PromisesTestHelpers.build/Objects-normal/arm64/PromisesTestHelpers-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Promises.build/Debug-iphonesimulator/PromisesTestHelpers.build/Objects-normal/arm64/PromisesTestHelpers-master.swiftdeps"
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift" : {
+
+  }
+}

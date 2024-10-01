@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'firs_app1_gr1UITests' in project 'firs_app1_gr1' (no dependencies)
+Target 'firs_app1_gr1UITests' in project 'firs_app1_gr1'
+➜ Explicit dependency on target 'firs_app1_gr1' in project 'firs_app1_gr1'
+Target 'firs_app1_gr1UITests' in project 'firs_app1_gr1'
+➜ Explicit dependency on target 'firs_app1_gr1' in project 'firs_app1_gr1'
+Target 'firs_app1_gr1Tests' in project 'firs_app1_gr1' (no dependencies)
+Target 'firs_app1_gr1Tests' in project 'firs_app1_gr1'
+➜ Explicit dependency on target 'firs_app1_gr1' in project 'firs_app1_gr1'
+Target 'firs_app1_gr1Tests' in project 'firs_app1_gr1'
+➜ Explicit dependency on target 'firs_app1_gr1' in project 'firs_app1_gr1'
+Target 'firs_app1_gr1' in project 'firs_app1_gr1' (no dependencies)
+Target 'firs_app1_gr1' in project 'firs_app1_gr1' (no dependencies)

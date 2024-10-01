@@ -1,0 +1,273 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "3b51aaf58509283055455591ce4b2e3bc773031c2ab4430761c696b09bc11172"
+build_start_time: [1727783587, 322349000]
+build_end_time: [1727783591, 940592000]
+inputs:
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/ActionCode/ActionCodeInfo.swift"
+  : !dirty [1727767290, 249123943]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/ActionCode/ActionCodeOperation.swift"
+  : !dirty [1727767290, 249240526]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/ActionCode/ActionCodeSettings.swift"
+  : !dirty [1727767290, 249368358]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/ActionCode/ActionCodeURL.swift"
+  : !dirty [1727767290, 249484274]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+  : !dirty [1727767290, 249974521]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthComponent.swift"
+  : !dirty [1727767290, 250405518]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthDataResult.swift"
+  : !dirty [1727767290, 250536267]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthDispatcher.swift"
+  : !dirty [1727767290, 250655808]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthGlobalWorkQueue.swift"
+  : !dirty [1727767290, 250793016]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthOperationType.swift"
+  : !dirty [1727767290, 250926890]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthSettings.swift"
+  : !dirty [1727767290, 251047347]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/AuthTokenResult.swift"
+  : !dirty [1727767290, 251228054]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/AuthCredential.swift"
+  : !dirty [1727767290, 251453970]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/AuthProviderID.swift"
+  : !dirty [1727767290, 251690302]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/EmailAuthProvider.swift"
+  : !dirty [1727767290, 252136090]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/FacebookAuthProvider.swift"
+  : !dirty [1727767290, 252254173]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/FederatedAuthProvider.swift"
+  : !dirty [1727767290, 252370297]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/GameCenterAuthProvider.swift"
+  : !dirty [1727767290, 252547046]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/GitHubAuthProvider.swift"
+  : !dirty [1727767290, 252670045]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/GoogleAuthProvider.swift"
+  : !dirty [1727767290, 252784503]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/OAuthCredential.swift"
+  : !dirty [1727767290, 252930168]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/OAuthProvider.swift"
+  : !dirty [1727767290, 253123501]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/PhoneAuthCredential.swift"
+  : !dirty [1727767290, 253272916]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/PhoneAuthProvider.swift"
+  : !dirty [1727767290, 253520748]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/AuthProvider/TwitterAuthProvider.swift"
+  : !dirty [1727767290, 253638497]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/AuthBackend.swift"
+  : !dirty [1727767290, 253935662]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/AuthRPCRequest.swift"
+  : !dirty [1727767290, 254078286]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/AuthRPCResponse.swift"
+  : !dirty [1727767290, 254198327]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/AuthRequestConfiguration.swift"
+  : !dirty [1727767290, 254314701]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/IdentityToolkitRequest.swift"
+  : !dirty [1727767290, 254481700]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/AuthMFAResponse.swift"
+  : !dirty [1727767290, 254725782]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/CreateAuthURIRequest.swift"
+  : !dirty [1727767290, 254858073]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/CreateAuthURIResponse.swift"
+  : !dirty [1727767290, 254969155]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/DeleteAccountRequest.swift"
+  : !dirty [1727767290, 255095779]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/DeleteAccountResponse.swift"
+  : !dirty [1727767290, 255265112]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/EmailLinkSignInRequest.swift"
+  : !dirty [1727767290, 255383236]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/EmailLinkSignInResponse.swift"
+  : !dirty [1727767290, 255529568]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetAccountInfoRequest.swift"
+  : !dirty [1727767290, 255673984]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetAccountInfoResponse.swift"
+  : !dirty [1727767290, 256002773]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetOOBConfirmationCodeRequest.swift"
+  : !dirty [1727767290, 256197397]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetOOBConfirmationCodeResponse.swift"
+  : !dirty [1727767290, 256327521]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetProjectConfigRequest.swift"
+  : !dirty [1727767290, 256461187]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetProjectConfigResponse.swift"
+  : !dirty [1727767290, 256590811]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetRecaptchaConfigRequest.swift"
+  : !dirty [1727767290, 256841435]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/GetRecaptchaConfigResponse.swift"
+  : !dirty [1727767290, 256978725]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Enroll/FinalizeMFAEnrollmentRequest.swift"
+  : !dirty [1727767290, 257371139]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Enroll/FinalizeMFAEnrollmentResponse.swift"
+  : !dirty [1727767290, 257547972]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Enroll/StartMFAEnrollmentRequest.swift"
+  : !dirty [1727767290, 257725720]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Enroll/StartMFAEnrollmentResponse.swift"
+  : !dirty [1727767290, 257881470]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/SignIn/FinalizeMFASignInRequest.swift"
+  : !dirty [1727767290, 258065302]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/SignIn/FinalizeMFASignInResponse.swift"
+  : !dirty [1727767290, 258218842]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/SignIn/StartMFASignInRequest.swift"
+  : !dirty [1727767290, 258435799]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/SignIn/StartMFASignInResponse.swift"
+  : !dirty [1727767290, 258550215]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Unenroll/WithdrawMFARequest.swift"
+  : !dirty [1727767290, 258729381]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/Unenroll/WithdrawMFAResponse.swift"
+  : !dirty [1727767290, 258912629]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/AuthProto.swift"
+  : !dirty [1727767290, 259117837]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/AuthProtoMFAEnrollment.swift"
+  : !dirty [1727767290, 259397918]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/Phone/AuthProtoFinalizeMFAPhoneRequestInfo.swift"
+  : !dirty [1727767290, 259628833]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/Phone/AuthProtoFinalizeMFAPhoneResponseInfo.swift"
+  : !dirty [1727767290, 259761374]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/Phone/AuthProtoStartMFAPhoneRequestInfo.swift"
+  : !dirty [1727767290, 259909873]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/Phone/AuthProtoStartMFAPhoneResponseInfo.swift"
+  : !dirty [1727767290, 260065205]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/TOTP/AuthProtoFinalizeMFATOTPEnrollmentRequestInfo.swift"
+  : !dirty [1727767290, 260265954]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/TOTP/AuthProtoFinalizeMFATOTPEnrollmentResponseInfo.swift"
+  : !dirty [1727767290, 260386995]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/TOTP/AuthProtoFinalizeMFATOTPSignInRequestInfo.swift"
+  : !dirty [1727767290, 260494036]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/TOTP/AuthProtoStartMFATOTPEnrollmentRequestInfo.swift"
+  : !dirty [1727767290, 260630410]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/Proto/TOTP/AuthProtoStartMFATOTPEnrollmentResponseInfo.swift"
+  : !dirty [1727767290, 260736368]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/ResetPasswordRequest.swift"
+  : !dirty [1727767290, 260842283]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/ResetPasswordResponse.swift"
+  : !dirty [1727767290, 260975116]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/RevokeTokenRequest.swift"
+  : !dirty [1727767290, 261101907]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/RevokeTokenResponse.swift"
+  : !dirty [1727767290, 261219156]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SecureTokenRequest.swift"
+  : !dirty [1727767290, 261402697]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SecureTokenResponse.swift"
+  : !dirty [1727767290, 261559362]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SendVerificationTokenRequest.swift"
+  : !dirty [1727767290, 261712861]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SendVerificationTokenResponse.swift"
+  : !dirty [1727767290, 261864444]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SetAccountInfoRequest.swift"
+  : !dirty [1727767290, 262010901]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SetAccountInfoResponse.swift"
+  : !dirty [1727767290, 262131358]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SignInWithGameCenterRequest.swift"
+  : !dirty [1727767290, 262271358]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SignInWithGameCenterResponse.swift"
+  : !dirty [1727767290, 262405815]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SignUpNewUserRequest.swift"
+  : !dirty [1727767290, 262528897]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/SignUpNewUserResponse.swift"
+  : !dirty [1727767290, 262639522]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyAssertionRequest.swift"
+  : !dirty [1727767290, 262826812]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyAssertionResponse.swift"
+  : !dirty [1727767290, 262994603]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyCustomTokenRequest.swift"
+  : !dirty [1727767290, 263111477]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyCustomTokenResponse.swift"
+  : !dirty [1727767290, 263217435]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyPasswordRequest.swift"
+  : !dirty [1727767290, 263338226]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyPasswordResponse.swift"
+  : !dirty [1727767290, 263457100]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyPhoneNumberRequest.swift"
+  : !dirty [1727767290, 263612849]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyPhoneNumberResponse.swift"
+  : !dirty [1727767290, 263747598]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/VerifyClientRequest.swift"
+  : !dirty [1727767290, 263868347]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Backend/VerifyClientResponse.swift"
+  : !dirty [1727767290, 263999513]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Base64URLEncodedStringExtension.swift"
+  : !dirty [1727767290, 264138970]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/MultiFactor.swift"
+  : !dirty [1727767290, 264423843]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/MultiFactorAssertion.swift"
+  : !dirty [1727767290, 264568176]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/MultiFactorInfo.swift"
+  : !dirty [1727767290, 264702425]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/MultiFactorResolver.swift"
+  : !dirty [1727767290, 264879466]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/MultiFactorSession.swift"
+  : !dirty [1727767290, 265009215]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorAssertion.swift"
+  : !dirty [1727767290, 265188880]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorGenerator.swift"
+  : !dirty [1727767290, 265315671]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorInfo.swift"
+  : !dirty [1727767290, 265451254]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultFactorAssertion.swift"
+  : !dirty [1727767290, 265651794]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultiFactorGenerator.swift"
+  : !dirty [1727767290, 265826334]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultiFactorInfo.swift"
+  : !dirty [1727767290, 265947875]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPSecret.swift"
+  : !dirty [1727767290, 266123999]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Storage/AuthKeychainServices.swift"
+  : !dirty [1727767290, 266522997]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Storage/AuthKeychainStorage.swift"
+  : !dirty [1727767290, 266649621]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Storage/AuthKeychainStorageReal.swift"
+  : !dirty [1727767290, 266767370]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Storage/AuthUserDefaults.swift"
+  : !dirty [1727767290, 266912744]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthAPNSToken.swift"
+  : !dirty [1727767290, 267153576]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthAPNSTokenManager.swift"
+  : !dirty [1727767290, 267327241]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthAPNSTokenType.swift"
+  : !dirty [1727767290, 267448824]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthAppCredential.swift"
+  : !dirty [1727767290, 267576406]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthAppCredentialManager.swift"
+  : !dirty [1727767290, 267742447]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthNotificationManager.swift"
+  : !dirty [1727767290, 267926529]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/AuthStoredUserManager.swift"
+  : !dirty [1727767290, 268096528]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/SystemService/SecureTokenService.swift"
+  : !dirty [1727767290, 268258694]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/AdditionalUserInfo.swift"
+  : !dirty [1727767290, 268452276]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/User.swift"
+  : !dirty [1727767290, 269781642]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/UserInfo.swift"
+  : !dirty [1727767290, 269929974]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/UserInfoImpl.swift"
+  : !dirty [1727767290, 270235222]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/UserMetadata.swift"
+  : !dirty [1727767290, 270365180]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/UserProfileChangeRequest.swift"
+  : !dirty [1727767290, 270526929]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/User/UserProfileUpdate.swift"
+  : !dirty [1727767290, 270804469]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthDefaultUIDelegate.swift"
+  : !dirty [1727767290, 271014967]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthErrorUtils.swift"
+  : !dirty [1727767290, 271172675]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthErrors.swift"
+  : !dirty [1727767290, 271509089]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthInternalErrors.swift"
+  : !dirty [1727767290, 271771087]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthLog.swift"
+  : !dirty [1727767290, 271964044]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthRecaptchaVerifier.swift"
+  : !dirty [1727767290, 272153501]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthUIDelegate.swift"
+  : !dirty [1727767290, 272276042]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthURLPresenter.swift"
+  : !dirty [1727767290, 272465041]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthWebUtils.swift"
+  : !dirty [1727767290, 272674831]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthWebView.swift"
+  : !dirty [1727767290, 272812039]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Utilities/AuthWebViewController.swift"
+  : !dirty [1727767290, 272992371]
+  ? "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseAuth.build/DerivedSources/resource_bundle_accessor.swift"
+  : !dirty [1727783575, 0]

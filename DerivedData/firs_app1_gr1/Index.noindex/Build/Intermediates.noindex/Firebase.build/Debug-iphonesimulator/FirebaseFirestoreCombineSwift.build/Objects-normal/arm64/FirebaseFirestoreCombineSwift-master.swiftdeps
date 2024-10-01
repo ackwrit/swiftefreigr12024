@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "646e1959d90a471546249f9046737770c3407386c2fd4756b507e370d2504f92"
+build_start_time: [1727783587, 237739000]
+build_end_time: [1727783591, 934919000]
+inputs:
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/CollectionReference+Combine.swift"
+  : !dirty [1727767290, 332295359]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/DocumentReference+Combine.swift"
+  : !dirty [1727767290, 332530233]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/Firestore+Combine.swift"
+  : !dirty [1727767290, 332674773]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/Query+Combine.swift"
+  : !dirty [1727767290, 332821773]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/Transaction+Combine.swift"
+  : !dirty [1727767290, 332957563]
+  ? "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Firestore/WriteBatch+Combine.swift"
+  : !dirty [1727767290, 333087812]

@@ -8,8 +8,9 @@
 import SwiftUI
 
 struct AllPersonnView: View {
+    @StateObject var userVm : PersonViewModel = PersonViewModel(id: "")
     var body: some View {
-        Text("Afficher toutes les personnes")
+        Text("NOM : \(userVm.user!.nom)")
     }
 }
 

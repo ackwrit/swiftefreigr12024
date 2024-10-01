@@ -1,0 +1,75 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/SwiftProtobuf.build/Debug-iphonesimulator/protoc-gen-swift-6C69A13E691DF668-testable.build/Objects-normal/arm64/protoc-gen-swift-6C69A13E691DF668-testable-master.d",
+    "diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/SwiftProtobuf.build/Debug-iphonesimulator/protoc-gen-swift-6C69A13E691DF668-testable.build/Objects-normal/arm64/protoc-gen-swift-6C69A13E691DF668-testable-master.dia",
+    "emit-module-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/SwiftProtobuf.build/Debug-iphonesimulator/protoc-gen-swift-6C69A13E691DF668-testable.build/Objects-normal/arm64/protoc-gen-swift-6C69A13E691DF668-testable-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/SwiftProtobuf.build/Debug-iphonesimulator/protoc-gen-swift-6C69A13E691DF668-testable.build/Objects-normal/arm64/protoc-gen-swift-6C69A13E691DF668-testable-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/samsung/formation/cours_ecole/swift/firs_app1_gr1/DerivedData/firs_app1_gr1/Index.noindex/Build/Intermediates.noindex/SwiftProtobuf.build/Debug-iphonesimulator/protoc-gen-swift-6C69A13E691DF668-testable.build/Objects-normal/arm64/protoc-gen-swift-6C69A13E691DF668-testable-master.swiftdeps"
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/CommandLine+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/Descriptor+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/EnumGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/ExtensionSetGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/FieldGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/FileGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/FileIo.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/GenerationError.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/GeneratorOptions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/Google_Protobuf_FileDescriptorProto+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/MessageFieldGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/MessageGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/MessageStorageClassGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/MessageStorageDecision.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/OneofGenerator.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/ProvidesDeprecationComment+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/ProvidesSourceCodeLocation+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/Range+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/StringUtils.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/SwiftGeneratorPlugin.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/SwiftProtobufNamer+Extensions.swift" : {
+
+  },
+  "/Users/skweel/Library/Developer/Xcode/DerivedData/firs_app1_gr1-awmerawvqvcsjzacwhwnfuqfbqoy/SourcePackages/checkouts/swift-protobuf/Sources/protoc-gen-swift/Version.swift" : {
+
+  }
+}

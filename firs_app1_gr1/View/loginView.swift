@@ -10,8 +10,13 @@ import SwiftUI
 struct loginView: View {
     @State var mail = ""
     @State var pass = ""
+    @State var idUser : String = ""
     @State var isSheet = false
-    @Environment(\.isPresented) var dismiss
+    var inscription = FirebaseManager.init()
+    
+    
+    
+    
     var body: some View {
         
     NavigationView {
@@ -30,24 +35,16 @@ struct loginView: View {
                 }
                 
                 
-                Button("Inscription") {
-                    isSheet.toggle()
+                
+                
+                Button("Inscription")  {
                     
+                    Task{
+                        idUser = await inscription.createUser(mail: mail, pass: pass)
+                    }
                     
                 }
-                .alert("Erreur", isPresented: $isSheet) {
-                    Button("Annuler", role: .cancel) {
-                        
-                    }
-                    Button("Detruire", role: .destructive) {
-                        
-                    }
-                    Button("Valider", role: .none) {
-                        
-                    }
-                } message: {
-                    Text("Mon message")
-                }
+               
 
                
             }
